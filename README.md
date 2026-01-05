@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm [Your Name]
+### Hi there! 👋 I'm LiChen
 A Senior Backend Developer with 10+ years in Java Development, specializing in scalable microservices, performance optimization, and cloud solutions.
 
 #### 🔧 My Tech Stack
